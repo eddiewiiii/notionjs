@@ -2,19 +2,19 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '677f5c5d52a24b63a44ea1449c21a718',
+  rootNotionPageId: '94c52e7d004e4b4585df576c576c2747',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Eat with Eddie',
-  domain: 'food.teameddie.top',
+  name: 'Eddie Personal',
+  domain: 'www.teameddie.top',
   author: 'Eddie',
 
   // open graph metadata (optional)
-  description: 'Check out my favourite restaurant around the world.',
+  description: 'This space is created and owned by Eddie.',
 
   // social usernames (optional)
   twitter: null,
